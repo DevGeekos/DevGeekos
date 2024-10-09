@@ -1,0 +1,4 @@
+- 👋 Hello ! Je suis @DevGeekos
+- 🤖 Je suis développeur de bots Disord
+- 🖥️ Je code en Python/HTML/CSS
+- ❤️ J'aime l'informatique ainsi que les jeux vidéos
